@@ -31,6 +31,5 @@ Using Bessel algorithm to achieve personification of mouse movement trajectory
 
 ## 感谢
 如果该脚本对您有帮助,可以请作者喝瓶矿泉水
-![微信图片_20240809112428](https://github.com/user-attachments/assets/a6418ca0-d3e1-4596-8349-706391cbb47f)
-<img src="https://github.com/user-attachments/assets/a6418ca0-d3e1-4596-8349-706391cbb47f" alt="xx=" style="zoom:50%;" />
+<img src="https://github.com/honor-007/BezierMouseMove/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240809112423.jpg" alt="1" style="zoom:50%;" />
 ![微信图片_20240809112423](https://github.com/user-attachments/assets/28e0d69f-5843-4aee-a622-904ace55b206)
