@@ -28,3 +28,8 @@ Using Bessel algorithm to achieve personification of mouse movement trajectory
 2. 可自主调节参数，用于进行轨迹移动规划。
 3. 平滑运行轨迹移动，可中断操作后继续移动。
 4. 可迁移性高，可迁移到多种鼠标移动方式场景
+
+## 感谢
+如果该脚本对您有帮助,可以请作者喝瓶矿泉水
+[图片]
+[图片]
