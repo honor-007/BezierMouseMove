@@ -22,8 +22,6 @@ Using Bessel algorithm to achieve personification of mouse movement trajectory
 
 ## 效果
 ![mouse_move](https://github.com/user-attachments/assets/3b560a88-4458-40f6-91b2-077b814b08e0)
-![image](https://github.com/user-attachments/assets/77940c07-7c05-418a-a2ae-0cb6b5b2a7ac)
-
 1. 随机性强，轨迹随机、移动速度随机
 2. 可自主调节参数，用于进行轨迹移动规划。
 3. 平滑运行轨迹移动，可中断操作后继续移动。
